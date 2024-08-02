@@ -9,7 +9,7 @@ Selenium + Specflow
 https://petstore.swagger.io/v2/
 
 **BDD structure:**
-1. Folder Features - contains Test cases in gherkin
+1. Folder Features - contains Test cases in gherkin (Note: Commented out test cases have not been automated due to being similar to already test cases for the purpose of this assignment)
 2. Folder Models - contains object models
 3. Folder StepDefinitions - contains code implementation of the test cases
 4. Folder Extensions - contains supporting classes for feature wise implementation
