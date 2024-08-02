@@ -3,7 +3,7 @@
 .\Inputs\Acceptance Criterias.feature
 
 **Framework used:**
-Selenium + Specflow
+Selenium + Specflow + C# (RestSharp for API automation)
 
 **Base URL for the API**
 https://petstore.swagger.io/v2/
